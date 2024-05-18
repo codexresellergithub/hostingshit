@@ -1,6 +1,6 @@
 <?php
 // Replace with your Discord webhook URL
-$webhook_url = 'https://discord.com/api/webhooks/WEBHOOK_ID/WEBHOOK_TOKEN';
+$webhook_url = 'https://discord.com/api/webhooks/1241493208022908958/VNbb4xWXE4ZqjrpPEr-PqkXIxajri8QwT-IJV2zRgSARiVOOgif4ayvsrqBWzq7zkY98';
 
 // Get the IP address from the POST request
 $ip = $_POST['ip'];
